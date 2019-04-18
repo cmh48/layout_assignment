@@ -2,8 +2,16 @@
 <project version="4">
   <component name="WebServers">
     <option name="servers">
-      <webServer id="37ea6659-dca8-45fe-8a55-ebffe962cfdc" name="zlayout" url="http://web.njit.edu/~cmh48/zlayout_assignment">
-        <fileTransfer host="afs2.njit.edu" port="22" rootFolder="/afs/cad.njit.edu/u/c/m/cmh48/public_html/zlayout_assignment" accessType="SFTP">
+      <webServer id="37ea6659-dca8-45fe-8a55-ebffe962cfdc" name="zlayout" url="http://web.njit.edu/~ab2388">
+        <fileTransfer host="afs5.njit.edu" port="22" rootFolder="/afs/cad.njit.edu/u/a/b/ab2388/public_html" accessType="SFTP">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+          <option name="port" value="22" />
+        </fileTransfer>
+      </webServer>
+      <webServer id="91e08b25-083f-453b-aa17-84b71a124398" name="flayout" url="http://wed.njit.edu/~ab2388">
+        <fileTransfer host="afs5.njit.edu" port="22" rootFolder="/afs/cad.njit.edu/u/a/b/ab2388/public_html/f_layout" accessType="SFTP">
           <advancedOptions>
             <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
           </advancedOptions>
