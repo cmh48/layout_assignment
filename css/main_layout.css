@@ -1,0 +1,87 @@
+body {
+    background-color: #ccc66c;
+    margin: 0;
+    font-family: "Roboto Condensed","HelveticaNeue-Light", "Helvetica Neue Light", "Helvetica Neue", Helvetica, Arial, "Lucida Grande", sans-serif;
+    font-weight: 300;
+}
+body h1{
+    font-size: 42px;
+    line-height: 65px;
+}
+body h2 {
+    font-size: 33px;
+    line-height: 52px;
+}
+body h3 {
+    font-size: 26px;
+    line-height: 41px;
+}
+body h4 {
+    font-size: 20px;
+    line-height: 33px;
+}
+body h5 {
+    font-size: 16px;
+    line-height: 27px;
+}
+body h6 {
+    font-size: 13px;
+    line-height: 23px;
+}
+.header{
+    width: 90%;
+    margin: 0 auto;
+}
+header{
+    background-color: white;
+    height: 120px;
+}
+header::after {
+    content: '';
+    display: block;
+    clear: both;
+}
+.logo{
+    float: left;
+    font-size: 55px;
+    font-weight: bold;
+}
+nav{
+    float: right;
+}
+nav ul{
+    margin: 0;
+    padding: 0;
+    list-style-type: none;
+}
+nav li{
+    display: inline-block;
+    margin-left: 35px;
+    padding-top: 65px;
+}
+#wrapper{
+    width: 80%;
+    margin-left: auto;
+    margin-right: auto;
+}
+.placeholder{
+    padding-top: 100px;
+}
+img {
+    float: left;
+    clear: both;
+    padding-right: 25px;
+}
+div.content{
+    padding-top: 60px;
+    line-height: 1.6;
+}
+.footer {
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+    background-color: white;
+    color: black;
+    text-align: left;
+    padding-left: 55px;
+}
