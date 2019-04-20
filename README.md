@@ -1,1 +1,1 @@
-[Z Layout](https://web.njit.edu/~cmh48/zlayout_assignment/zlayout_assignment.html)
+[Z Layout](https://web.njit.edu/~cmh48/zlayout_assignment/class_layout.html)
