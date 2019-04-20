@@ -1,5 +1,5 @@
 body {
-    background-color: #ccc66c;
+    background-color: cornsilk;
     font-family: "Roboto Condensed","HelveticaNeue-Light", "Helvetica Neue Light", "Helvetica Neue", Helvetica, Arial,
     "Lucida Grande", sans-serif;
     font-weight: 300;
@@ -13,12 +13,6 @@ body {
 }
 #header{
     background-color: #ffffce;
-}
-#logo{
-    height: 50px;
-    width: 100px;
-    float: left;
-    padding: 10px 0;
 }
 #hello{
     font-size: 33px;
@@ -89,11 +83,11 @@ body h6 {
     background-color: #ccc66c;
 }
 #info {
-    padding: 20px 6px 52px 26px;
-    width: 960px;
+    padding: 20px 6px 52px 20px;
+
     float: left;
     line-height: 1.6;
-    background-color: white;
+    background-color:#ffffce;
 }
 
 img{
