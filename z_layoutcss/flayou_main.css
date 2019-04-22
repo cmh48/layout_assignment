@@ -1,0 +1,131 @@
+body {
+    background-color: #ffffce;
+    font-family: "Roboto Condensed","HelveticaNeue-Light", "Helvetica Neue Light", "Helvetica Neue", Helvetica, Arial,
+    "Lucida Grande", sans-serif;
+    font-weight: 300;
+}
+#wrapper {
+    width: 960px;
+    height: 1553px;
+    margin-left: auto;
+    margin-right: auto;
+    background-color: #ccc66c;
+}
+#header{
+    background-color:#ffffce;
+}
+#hello{
+    font-size: 33px;
+}
+nav ul {
+    list-style-type: none;
+    margin: 0;
+    overflow: hidden;
+}
+nav li {
+    float: right;
+    text-align: center;
+    padding: 14px 16px;
+}
+.link{
+    padding-top: 30px;
+}
+#content {
+    width: 541px;
+    padding-left: 40px;
+    float: left;
+    clear: both;
+    background-color: #ccc66c;
+}
+#content p{
+    font-size: 13px;
+    line-height: 1.6;
+    padding-top: 35px;
+    padding-bottom: 30px;
+}
+
+body h1 {
+    font-size: 42px;
+    line-height: 65px;
+}
+
+body h2 {
+    font-size: 33px;
+    line-height: 52px;
+}
+
+body h3 {
+    font-size: 26px;
+    line-height: 41px;
+}
+
+body h4 {
+    font-size: 20px;
+    line-height: 33px;
+}
+
+body h5 {
+    font-size: 16px;
+    line-height: 27px;
+}
+
+body h6 {
+    font-size: 13px;
+    line-height: 23px;
+}
+
+#sidebar {
+    width: 300px;
+    float: left;
+    background-color: #ccc66c;
+}
+#sidebar img{
+    height: 150px;
+    width: 150px;
+    padding-top: 50px;
+    padding-left: 110px;
+}
+#sidebar h5{
+    padding-left: 170px;
+}
+#sidebar p{
+    padding-left: 80px;
+    font-size: 13px;
+    line-height: 23px;
+}
+#info {
+    padding: 20px 50px 52px 50px;
+    float: left;
+    line-height: 1.6;
+    background-color:#ffffce;
+}
+.img1 {
+    height: 150px;
+    width: 150px;
+    padding-top: 50px;
+    padding-right: 25px;
+    padding-bottom: 50px;
+    float: left;
+}
+.img2 {
+    height: 150px;
+    width: 150px;
+    padding-top: 40px;
+    padding-right: 25px;
+    padding-bottom: 50px;
+    float: left;
+}
+#footer {
+    clear: both;
+    position: fixed;
+    bottom: 0;
+    width: 960px;
+    height: 50px;
+    background-color: #ffffce;
+    color: black;
+    text-align: right;
+}
+#footerinfo{
+    padding-top: 20px;
+    padding-right: 24px;
+}
