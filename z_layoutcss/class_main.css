@@ -17,6 +17,10 @@ body {
 #hello{
     font-size: 33px;
 }
+#hello a{
+    text-decoration:none;
+    color: black;
+}
 nav ul {
     list-style-type: none;
     margin: 0;
