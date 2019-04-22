@@ -17,6 +17,10 @@ body {
 #hello{
     font-size: 33px;
 }
+#hello a{
+    text-decoration:none;
+    color: black;
+}
 nav ul {
     list-style-type: none;
     margin: 0;
@@ -114,6 +118,12 @@ body h6 {
     padding-right: 25px;
     padding-bottom: 50px;
     float: left;
+}
+.img3 {
+    height: 300px;
+    width: 300px;
+    padding: 50px 25px 80px 15px;
+    float: right;
 }
 #footer {
     clear: both;
