@@ -99,11 +99,18 @@ body h6 {
     line-height: 1.6;
     background-color:#ffffce;
 }
-
-#content img{
+.img1 {
     height: 150px;
     width: 150px;
     padding-top: 50px;
+    padding-right: 25px;
+    padding-bottom: 50px;
+    float: left;
+}
+.img2 {
+    height: 150px;
+    width: 150px;
+    padding-top: 40px;
     padding-right: 25px;
     padding-bottom: 50px;
     float: left;
