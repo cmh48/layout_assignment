@@ -100,13 +100,14 @@ img{
     padding-bottom: 50px;
 }
 #subinfo div {
-    width: 250px;
-    height: 100px;
+    width: 270px;
+    height: 600px;
     padding-left: 50px;
     float: left;
     font-size: 13px;
     line-height: 23px;
 }
+
 #footer {
     clear: both;
     position: fixed;
