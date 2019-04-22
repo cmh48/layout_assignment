@@ -98,6 +98,14 @@ img{
     width: 500px;
     padding-bottom: 50px;
 }
+#subinfo div {
+    width: 250px;
+    height: 100px;
+    padding-left: 50px;
+    float: left;
+    font-size: 13px;
+    line-height: 23px;
+}
 #footer {
     clear: both;
     position: fixed;
